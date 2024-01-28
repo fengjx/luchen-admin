@@ -1,0 +1,4 @@
+server:
+  http:
+    server-name: "luchen-admin"
+    listen: ":8080"
